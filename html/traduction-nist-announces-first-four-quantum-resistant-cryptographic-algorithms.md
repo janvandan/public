@@ -1,4 +1,4 @@
-*Traduction (libre) en français de l'article original publié en anglais sous le titre "[NIST Announces First Four Quantum-Resistant Cryptographic Algorithms] (https://news.cnrs.fr/articles/towards-a-post-quantum-cryptography](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)"*
+*Traduction (libre) en français de l'article original publié en anglais sous le titre "[NIST Announces First Four Quantum-Resistant Cryptographic Algorithms](https://www.nist.gov/news-events/news/2022/07/nist-announces-first-four-quantum-resistant-cryptographic-algorithms)"*
 
 # Le NIST annonce les quatre premiers algorithmes cryptographiques résistants à l'informatique quantique
 
